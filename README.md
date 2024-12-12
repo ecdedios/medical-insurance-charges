@@ -1,4 +1,4 @@
-# Medical Insruance Charges - Linear and Ridge Regression
+# Medical Insurance Charges - Linear and Ridge Regression
 
 > Work in progress! Exploratory data analysis and machine learning prediction of medical insurance charges framed as a regression problem using Jupyter Notebooks and Power BI.
 

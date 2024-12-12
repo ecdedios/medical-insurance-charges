@@ -18,7 +18,7 @@ The most interesting insight is...
 
 ## Interactive Dashboard
 
-![Power BI Dashboard](https://github.com/ecdedios/medical-insurance-charges/blob/main/viz/Screenshot%202024-12-11%20210940.pngg)
+![Power BI Dashboard](https://github.com/ecdedios/medical-insurance-charges/blob/main/viz/Screenshot%202024-12-11%20210940.png)
 
 [Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmMxODkxZDQtOTJjMi00N2Y0LTg4MDEtMjdlNTM5OTBjODU0IiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9)
 

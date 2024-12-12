@@ -14,15 +14,13 @@ https://www.kaggle.com/datasets/mirichoi0218/insurance/data
 
 The most interesting insight is...
 
-![Matplotlib](xxx.png)
-
-![Power BI](xxx.png)
+![Feature Importances](https://github.com/ecdedios/medical-insurance-charges/blob/main/viz/Screenshot%202024-12-11%20211122.png)
 
 ## Interactive Dashboard
 
-![Power BI Dashboard](xxx.png)
+![Power BI Dashboard](https://github.com/ecdedios/medical-insurance-charges/blob/main/viz/Screenshot%202024-12-11%20210940.pngg)
 
-[Link to the dashboard](xxx)
+[Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmMxODkxZDQtOTJjMi00N2Y0LTg4MDEtMjdlNTM5OTBjODU0IiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9)
 
 ## Reference
 

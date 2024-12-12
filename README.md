@@ -16,12 +16,6 @@ The most interesting insight is...
 
 ![Feature Importances](https://github.com/ecdedios/medical-insurance-charges/blob/main/viz/Screenshot%202024-12-11%20211122.png)
 
-## Interactive Dashboard
-
-![Power BI Dashboard](https://github.com/ecdedios/medical-insurance-charges/blob/main/viz/Screenshot%202024-12-11%20210940.png)
-
-[Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmMxODkxZDQtOTJjMi00N2Y0LTg4MDEtMjdlNTM5OTBjODU0IiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9)
-
 ### Key Interpretations
 
 #### 1. Relative Importance of Features
@@ -97,6 +91,12 @@ Programs targeting smoking cessation and BMI management could help reduce overal
 Including these interaction terms and quadratic terms ensures the model captures more complex relationships, improving prediction accuracy.
 
 **This analysis highlights the importance of examining both individual and combined effects of features to understand their influence on the target variable.**
+
+## Interactive Dashboard
+
+![Power BI Dashboard](https://github.com/ecdedios/medical-insurance-charges/blob/main/viz/Screenshot%202024-12-11%20210940.png)
+
+[Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmMxODkxZDQtOTJjMi00N2Y0LTg4MDEtMjdlNTM5OTBjODU0IiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9)
 
 ## Reference
 
